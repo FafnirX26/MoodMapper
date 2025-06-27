@@ -209,5 +209,3 @@ Mood Mapper is a wellness tool for personal insights and is not intended to diag
 ---
 
 **🧠 Mood Mapper** - Transforming reactive mental healthcare into predictive, preventive care through intelligent behavioral pattern analysis.
-
-*Built with ❤️ for mental health awareness and proactive wellbeing.*
